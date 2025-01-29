@@ -1,0 +1,21 @@
+{
+  "name": "searchnlp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compromise": "^14.14.4",
+    "csv-parser": "^3.1.0",
+    "dictionary-en-us": "^3.0.0",
+    "natural": "^8.0.1",
+    "stopword": "^3.1.4",
+    "tf-idf": "^1.0.0",
+    "wordnet-db": "^3.1.14"
+  }
+}
